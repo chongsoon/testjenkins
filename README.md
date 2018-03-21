@@ -1,8 +1,2 @@
 # testjenkins
-
-Testing
-
-testing
-
-
-testing
+Seriously testing
